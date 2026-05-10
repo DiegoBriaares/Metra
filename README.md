@@ -1,5 +1,5 @@
-# TimeMaster
-A versatile time tracking and management application.
+# Metra
+A versatile tiME TRAcking and management application.
  
 It allows users to start, pause, and reset a main timer, displaying the elapsed time in hours, minutes, and seconds. 
 
