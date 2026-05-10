@@ -1,5 +1,5 @@
 # Metra
-A versatile tiME TRAcking and management application.
+A versatile time tracking and management application.
  
 It allows users to start, pause, and reset a main timer, displaying the elapsed time in hours, minutes, and seconds. 
 
@@ -11,4 +11,4 @@ A "Resume" button then continues the main timer and sub-timers after the rest pe
 
 Additionally, the application alerts users with a sound when the main timer reaches a multiple of 25 minutes. 
 
-*TimeMaster*" is ideal for optimizing productivity, managing time, and staying focused on various tasks throughout the day.
+tiME TRAcker is ideal for optimizing productivity, managing time, and staying focused on various tasks throughout the day.
